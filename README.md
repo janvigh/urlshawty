@@ -8,3 +8,5 @@ The project's scope involves designing a user-friendly web interface to input lo
 It also includes setting up a backend to handle URL shortening, link statistics, and user authentication. 
 The URL Shortener streamlines the process of sharing long URLs, making it easier for users to share links on various platforms.
 Shortened URLs can lead to higher click-through rates and better user engagement compared to long and complex URLs.
+
+https://tinyurl.com/2dqjkwp3
